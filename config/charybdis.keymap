@@ -19,8 +19,8 @@
         &kp TAB           &kp Q   &kp W           &kp E            &kp R    &kp T      &kp Y    &kp U       &kp I         &kp O         &kp P     &kp MINUS
         &kp LEFT_SHIFT    &kp A   &kp S           &kp D            &kp F    &kp G      &kp H    &kp J       &kp K         &kp L         &kp SEMI  &kp SQT
         &kp LEFT_CONTROL  &kp Z   &kp X           &kp C            &kp V    &kp B      &kp N    &kp M       &kp COMMA     &kp DOT       &kp FSLH  &kp BACKSLASH
-                                  &kp LEFT_BRACE  &kp RIGHT_BRACE  &mo 0    &kp SPACE  &kp RET  &mo 0       &kp PLUS      &kp X
-                                  &kp BACKSPACE   &kp LGUI         &kp TAB  &kp HOME   &kp END  &kp DELETE  &kp LEFT_WIN  &kp LEFT_ALT
+        &kp BACKSPACE     &kp LGUI  &mo 0   &kp SPACE       &kp PLUS      &kp LGUI         &kp TAB  &kp HOME 
+                                      
       >;
     };
 
@@ -31,7 +31,7 @@
         &trans   &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans
         &trans   &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans   &trans
                          &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                         &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+                         
       >;
     };
 
@@ -42,7 +42,7 @@
         &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
         &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
                         &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+                        
       >;
     };
   };
