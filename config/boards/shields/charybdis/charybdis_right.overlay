@@ -1,4 +1,4 @@
-#include "dactyl_5x6.dtsi"
+#include "charybdis.dtsi"
 
 &default_transform { 
     col-offset = <6>;
